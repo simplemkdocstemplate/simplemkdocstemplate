@@ -99,12 +99,12 @@ markdown_extensions:
 
 
 
-# extra:
+extra:
   social:
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/yds.thienqc/
+      link: 
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/thienqc/
+      link: 
   analytics:
     provider: google
     property: G-WQ6QJ2DK27
