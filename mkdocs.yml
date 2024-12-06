@@ -27,7 +27,7 @@ theme:
           name: Switch to light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: indigo
+        primary: deep purple
         accent: indigo
         toggle:
           icon: material/toggle-switch
