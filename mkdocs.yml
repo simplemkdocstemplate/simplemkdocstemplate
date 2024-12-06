@@ -1,7 +1,7 @@
-site_name: mkdocs template
-site_description: simple mkdocs
-site_url: https://github.com/simplemkdocstemplatebyHaiHa/simplemkdocstemplatebyHaiHa/
-site_author: hh
+site_name: thienqc
+site_description: thienqc's blog
+site_url: https://thienqc.github.io/blog/
+site_author: thienqc
 
 theme:
     name: material
@@ -102,9 +102,9 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/facebook
-      link: 
+      link: https://www.facebook.com/yds.thienqc/
     - icon: fontawesome/brands/instagram
-      link: 
+      link: https://www.instagram.com/thienqc/
   analytics:
     provider: google
     property: G-WQ6QJ2DK27
