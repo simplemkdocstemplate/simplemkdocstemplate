@@ -97,11 +97,3 @@ markdown_extensions:
   - toc:
       permalink: true
 
-
-
-extra:
-  social:
-    - icon: fontawesome/brands/facebook
-      link:
-    - icon: fontawesome/brands/instagram
-      link: 
