@@ -2,7 +2,7 @@ site_name: mkdocstemplate by hai ha
 site_description: mkdocs template by hai ha
 site_url: https://simplemkdocstemplate.github.io/
 site_author: mkdocs template by hai ha
-
+repo_url: https://github.com/simplemkdocstemplate/simplemkdocstemplate.github.io/
 theme:
     name: material
     icon:
