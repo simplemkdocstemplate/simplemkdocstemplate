@@ -5,7 +5,6 @@ site_author: mkdocs template by hai ha
 
 theme:
     name: material
-    custom_dir: overrides
     icon:
       logo: fontawesome/solid/brain
       # favicon: assets/meta/brain-solid.png
@@ -59,7 +58,7 @@ plugins:
   - blogging:
       dirs:
         - post
-      template: overrides/custom-blog.html
+      # template: overrides/custom-blog.html
       features:
         tags:
           index_page: tags.md
